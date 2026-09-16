@@ -320,6 +320,13 @@ It supports the major engines — whichever you use, it fits:
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Kai74825">
+                    <img src="https://avatars.githubusercontent.com/u/145758798?v=4" width="100;" alt="Kai74825"/>
+                    <br />
+                    <sub><b>Kai74825</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PlayerYF">
                     <img src="https://avatars.githubusercontent.com/u/56374327?v=4" width="100;" alt="PlayerYF"/>
                     <br />
